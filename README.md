@@ -25,7 +25,7 @@ The Counter Web App is a simple yet handy application built with React that allo
 
 ## Installation :computer:
 
-1. Clone the repository: `git clone https://github.com/your-username/counter-app.git`
+1. Clone the repository: `git clone https://github.com/anshu787/counter-app.git`
 2. Navigate to the project folder: `cd counter-app`
 3. Install dependencies: `npm install`
 
